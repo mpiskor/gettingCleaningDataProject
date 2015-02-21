@@ -14,7 +14,3 @@ This is the repository with my attempt at completing the course project for Cour
 3. Uses descriptive activity names to name the activities in the data set -- *with the `prepareData` and helper functions (see the CodeBook.md)*
 4. Appropriately labels the data set with descriptive variable names. - *with the `prepareData` and helper functions (see the CodeBook.md)*
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. -- *as a to-level dplyr pipe and write.csv() at the end of the run_analysis.R script*
-=======
-# gettingCleaningDataProject
-my attempt at the Coursera Getting and Cleaning Data project
->>>>>>> 5ca0da58ca2df9cd96a21920db2fb03664af6abc
