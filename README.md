@@ -3,7 +3,7 @@
 This is the repository with my attempt at completing the course project for Coursera's *Getting and Cleaning Data* course. It contains the following elements:
 
 * the `run_analysis.R` script containing the R-script for processing the data
-* the `cleanDataMeans.csv` file containing the resulting, limited and averaged dataset
+* the `cleanDataMeans.txt` file containing the resulting, limited and averaged dataset
 * the `CookBook.md` file containing the description of all that happens in the analysis
 * the `Readme.md` file, which you are reading now
 
