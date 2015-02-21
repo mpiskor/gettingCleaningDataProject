@@ -1,9 +1,3 @@
----
-title: "CodeBook"
-author: "mpiskor"
-date: "Saturday, February 21, 2015"
-output: html_document
----
 # Introduction
 
 This is the codebook for my Coursera Getting and Cleaning Data programming project. It describes all the steps taken to analyse the dataset. 
