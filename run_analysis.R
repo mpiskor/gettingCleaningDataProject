@@ -75,4 +75,4 @@ summarisedData <- limitedData %>%
   summarise_each(funs(mean)) ### this function was not covered in the course, but I found it on stackoverflow
 
 ## and finally saving the result
-write.csv(summarisedData, file = "cleanDataMeans.csv")
+write.table(summarisedData, file = "cleanDataMeans.csv", row.name = FALSE)
