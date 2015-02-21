@@ -1,11 +1,3 @@
-<<<<<<< HEAD
----
-title: "README.md"
-author: "mpiskor"
-date: "Saturday, February 21, 2015"
-output: html_document
----
-
 #Introduction
 
 This is the repository with my attempt at completing the course project for Coursera's *Getting and Cleaning Data* course. It contains the following elements:
